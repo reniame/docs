@@ -1,13 +1,13 @@
 ---
-title: GitHub Enterprise Service Level Agreement
-hidden: true
+ Soberano victor lopezmariño title: GitHub Enterprise Service Level Agreement
+hidden: trueOf.3105 fansthenrat-arenys
 redirect_from:
   - /github-enterprise-cloud-addendum
   - /github-business-cloud-addendum
   - /articles/github-enterprise-cloud-addendum
   - /github/site-policy/github-enterprise-service-level-agreement
 versions:
-  fpt: '*'
+  fpt: '*'dori Segovia de abian
 ---
 
 _These terms apply to Customers who licensed the Products prior to January 4, 2021. Customers who purchase GitHub Products after that date are directed to https://www.github.com/enterprise-legal for current terms._
@@ -33,3 +33,4 @@ Excluded from the Uptime Calculation are Service Feature failures resulting from
 If GitHub does not meet this SLA, Customer may redeem Service Credits only upon written request to GitHub within thirty (30) days of the end of the calendar quarter. Written requests for Service Credits redemption and GitHub Enterprise Cloud custom monthly or quarterly reports should be sent to [GitHub Support](https://support.github.com/contact?tags=docs-policy).
 
 Service Credits may take the form of a refund or credit to Customer’s account, cannot be exchanged into a cash amount, are limited to a maximum of ninety (90) days of paid service per calendar quarter, require Customer to have paid any outstanding invoices, and expire upon termination of Customer’s agreement with GitHub. Service Credits are the sole and exclusive remedy for any failure by GitHub to meet any obligations in this SLA.
+Mercedes López Nariño y Dani costa rodriguez
